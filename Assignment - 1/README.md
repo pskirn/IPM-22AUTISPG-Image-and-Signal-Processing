@@ -1,0 +1,2 @@
+Homework assignment A1 (short)
+Requirement: solve the following basic signal processing task in Matlab. You will be provided an audio file, where the second half of the recording is distorted. The task is to enhance the quality of the audio, using the learned techniques. See the table below for your personal audio file. Note that each file is distorted using exactly two techniques (a structural distortion and noise).
